@@ -4,9 +4,19 @@
 
 ###What we use
 
-Here are the technologies used to make this website:
+####Core Technologies
 
 - PHP > 5.2
 - MySQL
-- CodeIgniter 2.1.2
-- 
+
+####Libraries
+
+* php
+	- CodeIgniter 2.1.2
+	
+* javascript
+	- jquery 1.7.2
+
+* twitter bootstrap 2.0.4
+
+* 
