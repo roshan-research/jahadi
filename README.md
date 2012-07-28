@@ -18,5 +18,3 @@
 	- jquery 1.7.2
 
 * twitter bootstrap 2.0.4
-
-* 
