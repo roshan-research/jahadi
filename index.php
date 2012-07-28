@@ -1,3 +1,3 @@
 <?php
 
-echo "hello, JAHADI";
+echo "this is for jahadi";
