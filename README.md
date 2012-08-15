@@ -2,14 +2,14 @@
 ======
 
 
-###What we use
+### What we use
 
-####Core Technologies
+#### Core Technologies
 
 - PHP > 5.2
 - MySQL
 
-####Libraries
+#### Libraries
 
 * php
 	- CodeIgniter 2.1.2
@@ -18,3 +18,9 @@
 	- jquery 1.7.2
 
 * twitter bootstrap 2.0.4
+
+#### Design
+
+* Pattern from: SubtlePatterns.com
+
+* Color palette from: Colourlovers.com
